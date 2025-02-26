@@ -2,7 +2,6 @@
 
 This is a simple command-line Library Book Management System written in Python. It allows you to manage a collection of books, track borrowed and returned books, and maintain records using text files.
 
-<br>
 <p> Features:
 <br>
     1. Add Book: Add new books to the library collection.
@@ -23,5 +22,6 @@ This is a simple command-line Library Book Management System written in Python. 
 <br>
     2. borrowed.txt: Stores borrowed book records (Book ID, Borrower, Borrow Date, Return Date).</p>
 
-<p> Prerequisites: </p>
+<p> Prerequisites:
 <br> Python
+</p>
